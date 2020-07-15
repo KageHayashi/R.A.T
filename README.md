@@ -30,6 +30,7 @@ python rat.py
 ### Weather Forecast
 ![](testimages/weather.gif)
 
-
+### Currency Exchange
+![](testimages/exchange.gif)
 
 p.s Not a Remote Access Trojan :)
