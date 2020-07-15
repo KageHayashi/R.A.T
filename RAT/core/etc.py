@@ -16,6 +16,8 @@ random.shuffle(color_random)
 
 ratlogo = color_random[0] + Figlet(font='slant').renderText('R . A . T')
 weatherlogo = color_random[0] + Figlet(font='slant').renderText('Weather')
+exchangelogo = color_random[0] + Figlet(font='slant').renderText('Exchange')
 description = color.NOTICE + "--------Random Accessible Tools--------"
 ratprompt = "rat~# "
 weatherprompt = "weather~# "
+exchangeprompt = "exchange~# "
