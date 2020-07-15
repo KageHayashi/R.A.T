@@ -6,7 +6,6 @@ This is a command line interface that gives access to various tools.
 ## Tools
 * Weather Forecast
 * Currency Exchange
-* Calculator
 
 ## Installation 
 ### a. Requirements
